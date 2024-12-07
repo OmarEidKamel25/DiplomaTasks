@@ -1,0 +1,14 @@
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\bin\Debug\net8.0\Bank_System-Task.exe
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\bin\Debug\net8.0\Bank_System-Task.deps.json
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\bin\Debug\net8.0\Bank_System-Task.runtimeconfig.json
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\bin\Debug\net8.0\Bank_System-Task.dll
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\bin\Debug\net8.0\Bank_System-Task.pdb
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.AssemblyInfoInputs.cache
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.AssemblyInfo.cs
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.csproj.CoreCompileInputs.cache
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.dll
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\refint\Bank_System-Task.dll
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.pdb
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\Bank_System-Task.genruntimeconfig.cache
+C:\Users\omare_gv6q\source\repos\Bank_System-Task\Bank_System-Task\obj\Debug\net8.0\ref\Bank_System-Task.dll
